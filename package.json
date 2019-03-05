@@ -2,6 +2,7 @@
   "name": "deck",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://idriuk2.github.io/deck",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "lodash-es": "4.17.11",
